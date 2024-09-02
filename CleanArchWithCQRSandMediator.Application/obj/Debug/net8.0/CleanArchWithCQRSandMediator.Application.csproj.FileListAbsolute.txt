@@ -1,0 +1,15 @@
+C:\Users\Willy.nyawira\source\repos\CleanArchWithCQRSandMediator\CleanArchWithCQRSandMediator.Application\bin\Debug\net8.0\CleanArchWithCQRSandMediator.Application.deps.json
+C:\Users\Willy.nyawira\source\repos\CleanArchWithCQRSandMediator\CleanArchWithCQRSandMediator.Application\bin\Debug\net8.0\CleanArchWithCQRSandMediator.Application.dll
+C:\Users\Willy.nyawira\source\repos\CleanArchWithCQRSandMediator\CleanArchWithCQRSandMediator.Application\bin\Debug\net8.0\CleanArchWithCQRSandMediator.Application.pdb
+C:\Users\Willy.nyawira\source\repos\CleanArchWithCQRSandMediator\CleanArchWithCQRSandMediator.Application\bin\Debug\net8.0\CleanArchWithCQRSandMediator.Domain.dll
+C:\Users\Willy.nyawira\source\repos\CleanArchWithCQRSandMediator\CleanArchWithCQRSandMediator.Application\bin\Debug\net8.0\CleanArchWithCQRSandMediator.Domain.pdb
+C:\Users\Willy.nyawira\source\repos\CleanArchWithCQRSandMediator\CleanArchWithCQRSandMediator.Application\obj\Debug\net8.0\CleanArchWithCQRSandMediator.Application.csproj.AssemblyReference.cache
+C:\Users\Willy.nyawira\source\repos\CleanArchWithCQRSandMediator\CleanArchWithCQRSandMediator.Application\obj\Debug\net8.0\CleanArchWithCQRSandMediator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy.nyawira\source\repos\CleanArchWithCQRSandMediator\CleanArchWithCQRSandMediator.Application\obj\Debug\net8.0\CleanArchWithCQRSandMediator.Application.AssemblyInfoInputs.cache
+C:\Users\Willy.nyawira\source\repos\CleanArchWithCQRSandMediator\CleanArchWithCQRSandMediator.Application\obj\Debug\net8.0\CleanArchWithCQRSandMediator.Application.AssemblyInfo.cs
+C:\Users\Willy.nyawira\source\repos\CleanArchWithCQRSandMediator\CleanArchWithCQRSandMediator.Application\obj\Debug\net8.0\CleanArchWithCQRSandMediator.Application.csproj.CoreCompileInputs.cache
+C:\Users\Willy.nyawira\source\repos\CleanArchWithCQRSandMediator\CleanArchWithCQRSandMediator.Application\obj\Debug\net8.0\CleanArc.9CA27B4E.Up2Date
+C:\Users\Willy.nyawira\source\repos\CleanArchWithCQRSandMediator\CleanArchWithCQRSandMediator.Application\obj\Debug\net8.0\CleanArchWithCQRSandMediator.Application.dll
+C:\Users\Willy.nyawira\source\repos\CleanArchWithCQRSandMediator\CleanArchWithCQRSandMediator.Application\obj\Debug\net8.0\refint\CleanArchWithCQRSandMediator.Application.dll
+C:\Users\Willy.nyawira\source\repos\CleanArchWithCQRSandMediator\CleanArchWithCQRSandMediator.Application\obj\Debug\net8.0\CleanArchWithCQRSandMediator.Application.pdb
+C:\Users\Willy.nyawira\source\repos\CleanArchWithCQRSandMediator\CleanArchWithCQRSandMediator.Application\obj\Debug\net8.0\ref\CleanArchWithCQRSandMediator.Application.dll
